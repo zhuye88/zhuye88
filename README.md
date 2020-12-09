@@ -21,5 +21,5 @@ My research interests are:
 - [LinkedIn](https://www.linkedin.com/in/yalezhu/)
 - [E-mail](ye.zhu@deakin.edu.au)
 
-![Ye Zhu's github stats](https://github-readme-stats.vercel.app/api?username=zhuye88&show_icons=true&hide_border=true)
+![Ye Zhu's github stats](https://github-readme-stats.vercel.app/api?username=zhuye88&show_icons=true)
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuye88&show_icons=true)
