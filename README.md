@@ -1,6 +1,6 @@
 ## [![Ye Zhu's header](https://github.com/zhuye88/zhuye88/blob/main/ima.png)](https://yezhu.com.au/)
 
-# Hello, I'm Ye Zhu 👋
+# Hello, I'm Ye Zhu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ![HTML](https://img.shields.io/badge/Matlab-Expert-orange)
 ![CSS](https://img.shields.io/badge/Python-Expert-blue)
