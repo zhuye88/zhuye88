@@ -22,4 +22,4 @@ My research interests are:
 - [E-mail](ye.zhu@deakin.edu.au)
 
 ![Ye Zhu's github stats](https://github-readme-stats.vercel.app/api?username=zhuye88&show_icons=true&hide_border=true)
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuye88&layout=compact&theme=buefy)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuye88&show_icons=true&hide_border=true)
