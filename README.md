@@ -24,7 +24,7 @@ My research interests are:
 - 📑 [Google Scholar](https://scholar.google.com/citations?user=QxRHA48AAAAJ&hl)
 - 💥 [GitHub](https://github.com/zhuye88) 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yalezhu/)
-- ✉️ [E-mail](ye.zhu@deakin.edu.au)
+- ✉️ [E-mail](mailto:ye.zhu@deakin.edu.au)
 
 ![Ye Zhu's github stats](https://github-readme-stats.vercel.app/api?username=zhuye88&show_icons=true)
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuye88&show_icons=true)
