@@ -16,7 +16,7 @@ My research interests are:
 
 ⚡️⚡️⚡️ For detailed description of my research projects and software, please visit my [**personal website**](https://yezhu.com.au/). Here are some featured packages:
 - 🎑 Data-dependent similarity measure: [aNNE](https://github.com/zhuye88/anne-dbscan-demo) (AAAI-19) and [me](https://sourceforge.net/projects/mass-based-dissimilarity/) (KDD-16).
-- 🐩 Density-ratio based clustering: [DScale](https://github.com/zhuye88/Distance-Scaling) (PAKDD-18) and [ReScale](https://github.com/zhuye88/Density-ratio-based-clustering) (PRJ-16).
+- 🐩 Density-ratio based clustering: [CDF-TS](https://github.com/zhuye88/CDF-TS), [DScale](https://github.com/zhuye88/Distance-Scaling) (PAKDD-18) and [ReScale](https://github.com/zhuye88/Density-ratio-based-clustering) (PRJ-16).
 - 🐳 Isolation-based anomaly detection: [iForest](https://github.com/zhuye88/iForest) (ICDM-08) and [iNNE](https://github.com/zhuye88/iNNE) (CIJ-18).
 
 ### 📬 Get in Touch
