@@ -14,9 +14,12 @@ My research interests are:
 - ⚙️ Similarity learning
 - 👯 Unsupervised learning
 
-⚡️⚡️⚡️ For detailed description of my research projects and software, please visit my [**personal website**](https://yezhu.com.au/). Here are some featured packages:
+⚡️⚡️⚡️ For detailed description of my research projects and software, please visit my [**personal website**](https://yezhu.com.au/). 
+Recently, I have mainly participated in developing Isolation-based methods for unsupervised learning. All relevant packages can be found at [here](https://github.com/IsolationKernel/Codes). 
+
+Here are some other featured packages:
 - 🎑 Data-dependent similarity measure: [aNNE](https://github.com/zhuye88/anne-dbscan-demo) (AAAI-19) and [me](https://sourceforge.net/projects/mass-based-dissimilarity/) (KDD-16). **The R Package of Isolation Kernel** is: https://github.com/zhuye88/isokernel
-- 🐩 Density-ratio based clustering: [CDF-TS](https://github.com/zhuye88/CDF-TS) (PRJ-21), [DScale](https://github.com/zhuye88/Distance-Scaling) (PAKDD-18) and [ReScale](https://github.com/zhuye88/Density-ratio-based-clustering) (PRJ-16).
+- 🐩 Clustering: [DC-HDP](https://github.com/zhuye88/DCHDP) (PRJ-22), [CDF-TS](https://github.com/zhuye88/CDF-TS) (PRJ-21), [DScale](https://github.com/zhuye88/Distance-Scaling) (PAKDD-18) and [ReScale](https://github.com/zhuye88/Density-ratio-based-clustering) (PRJ-16).
 - 🐳 Isolation-based anomaly detection: [iForest](https://github.com/zhuye88/iForest) (ICDM-08) and [iNNE](https://github.com/zhuye88/iNNE) (CIJ-18).
 
 ### 📬 Get in Touch
