@@ -6,7 +6,7 @@
 ![CSS](https://img.shields.io/badge/Python-Expert-blue)
 ![JavaScript](https://img.shields.io/badge/R-Expert-yellow) 
 
-I am working in the School of Information Technology at [Deakin University](https://www.deakin.edu.au/about-deakin/people/ye-zhu) as a Lecturer in IT. My research works focus on the fields of data mining and machine learning. Particular topics include clustering analysis, anomaly detection, similarity learning and their applications for pattern recognition and information retrieval. 
+I am working in the School of Information Technology at [Deakin University](https://www.deakin.edu.au/about-deakin/people/ye-zhu) as a Senior Lecturer (equivalent to Associate Professor in North American universities). My research works focus on the fields of data mining and machine learning. Particular topics include clustering analysis, anomaly detection, similarity learning and their applications for pattern recognition and information retrieval. 
 
 My research interests are:
 - 🔭 Clustering analysis
